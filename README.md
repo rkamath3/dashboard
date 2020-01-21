@@ -70,4 +70,4 @@ Participation in the Kubernetes community is governed by the [Kubernetes Code of
 [Apache License 2.0](https://github.com/kubernetes/dashboard/blob/master/LICENSE)
 
 ----
-_Copyright 2019 [The Kubernetes Dashboard Authors](https://github.com/kubernetes/dashboard/graphs/contributors)_
+_Copyright {{ .Date.Format "2006" }} [The Kubernetes Dashboard Authors](https://github.com/kubernetes/dashboard/graphs/contributors)_
